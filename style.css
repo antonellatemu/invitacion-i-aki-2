@@ -28,7 +28,7 @@ video {
   }
   @media (max-width: 768px) {
     h1.typewriter {
-      font-size: 10vw; /* Reduce el tamaño de la fuente en pantallas pequeñas */
+      font-size: 5vw; /* Reduce el tamaño de la fuente en pantallas pequeñas */
     }
   }
   
